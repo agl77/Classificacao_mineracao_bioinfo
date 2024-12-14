@@ -31,14 +31,14 @@ Os resultados comparativos entre os algoritmos estão descritos no arquivo [resu
 - O **SVM** teve melhora significativa após otimização com **grid search**.  
 - O **Naive Bayes** teve desempenho limitado, especialmente em revocação para DNA-transposons.  
 
-Para mais detalhes, consulte o arquivo de resultados ou o artigo associado ao projeto.  
+Para mais detalhes, execute o ipynb.
 
 ## **Como Usar Este Repositório**  
 
 ### **Pré-requisitos**  
 Certifique-se de ter instalado:  
 - **Python 3.8+**  
-- Dependências listadas no arquivo `requirements.txt`.  
+- Dependências estão no arquivo ipynb.  
 
 ### **Instalação**  
 1. Clone este repositório:  
